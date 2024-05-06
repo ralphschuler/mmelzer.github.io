@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ogkEBDqBvGwn91CqHI8Dsc/Un41dmgG9fGC/5+LP5O2iqv+z3YbhpSbc67jvUjg/lyFrAkaexJ8Qo84bg3S/lQ==",
+  "dgSpecHash": "8y3yAcddqHymXgcuiYF/Vk5lLudoVedPkm3g/b5yOaNPYZ41pk4NhuJZqtvRoLdLhsTC/4UnstN2WQnvIus+kg==",
   "success": true,
   "projectFilePath": "/Users/ralphschuler/Documents/GitHub/mmelzer.github.io/App/App.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/ralphschuler/.nuget/packages/microsoft.aspnetcore.spaproxy/7.0.13/microsoft.aspnetcore.spaproxy.7.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
