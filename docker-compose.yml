@@ -1,0 +1,14 @@
+version: "3.8"
+
+services:
+  web:
+    build: .
+    ports:
+      - "5206:5206"
+    depends_on:
+      - db
+  db:
+    image: mariadb
+    restart: always
+    environment:
+      MARIADB_ROOT_PASSWORD: example
